@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/lesson13.js",
+    "dev": "nodemon src/lesson14.js",
     "review": "nodemon src/lesson10.js"
   },
   "keywords": [],
